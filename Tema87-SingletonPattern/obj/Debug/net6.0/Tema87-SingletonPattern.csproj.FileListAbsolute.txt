@@ -1,0 +1,15 @@
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\bin\Debug\net6.0\Tema87-SingletonPattern.exe
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\bin\Debug\net6.0\Tema87-SingletonPattern.deps.json
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\bin\Debug\net6.0\Tema87-SingletonPattern.runtimeconfig.json
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\bin\Debug\net6.0\Tema87-SingletonPattern.dll
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\bin\Debug\net6.0\ref\Tema87-SingletonPattern.dll
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\bin\Debug\net6.0\Tema87-SingletonPattern.pdb
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\obj\Debug\net6.0\Tema87-SingletonPattern.csproj.AssemblyReference.cache
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\obj\Debug\net6.0\Tema87-SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\obj\Debug\net6.0\Tema87-SingletonPattern.AssemblyInfoInputs.cache
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\obj\Debug\net6.0\Tema87-SingletonPattern.AssemblyInfo.cs
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\obj\Debug\net6.0\Tema87-SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\obj\Debug\net6.0\Tema87-SingletonPattern.dll
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\obj\Debug\net6.0\ref\Tema87-SingletonPattern.dll
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\obj\Debug\net6.0\Tema87-SingletonPattern.pdb
+C:\Data\charp\Teme\Tema87-SingletonPattern\Tema87-SingletonPattern\obj\Debug\net6.0\Tema87-SingletonPattern.genruntimeconfig.cache
